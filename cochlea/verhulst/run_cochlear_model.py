@@ -110,7 +110,7 @@ def solve_one_cochlea(model):
     plt.show()    
     
     ### Dictionary which calculate the center frequencies over 20e3 Hz  
-    vlist=[v for v in coch.Vsolution.T]    
-    ylist=[y for y in coch.Ysolution.T]
-    df=pds.DataFrame({'Cf':coch.cf[1:], 'Y':ylist, 'V':vlist})
-    return df[df['Cf']>10e3]
+#    vlist=[v for v in coch.Vsolution.T]    
+#    ylist=[y for y in coch.Ysolution.T]
+#    df=pds.DataFrame({'Cf':coch.cf[1:], 'Y':ylist, 'V':vlist})
+#    return df[df['Cf']>10e3]
