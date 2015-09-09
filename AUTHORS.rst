@@ -5,7 +5,7 @@ Authors and Contributors
 Authors
 -------
 
-* Homa Rasouli
+* Homa Rasoul
 * Marek Rudnicki <marekrud@gmail.com>
 * Werner Hemmert <werner.hemmert@tum.de>
 * Marcus Holmberg
